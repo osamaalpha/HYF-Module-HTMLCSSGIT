@@ -8,8 +8,8 @@ body{
     margin: 0;
     padding: 0;
 }
-.imgblock{
-    display: block;
+.article img{
+    display: block;  
 }
 ul{
     display: flex;
